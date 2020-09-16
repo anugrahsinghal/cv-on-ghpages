@@ -15,4 +15,6 @@ script:
   - make github
 env:
   global:
-    - secure: "yoursecret"
+#     - secure: "yoursecret"
+    - secure: "Y7g/VFIJ2kOfW+rxCSbmEtjNJG2HvyZv0mOBN1XOUQJyQiCeaTygQq87zDpQ48jNBdyPyn/NIb+kVQfe8WCsOJpBKvxaW3f1/BYHV2fDSOWSbhe/csni/M+H3Q9dz9WWzCr5tQ5e4d2O8EweOxhQvLCnp+FB1s+c/iwxLn9iaKQ0jGFtBaC1jahh05CaLKAjltK1bBq61L9ISgbruHM3CqSOjDVeHOjFGNQkgXlxFKpqMeRMCXuFzZeBhYyz+u4Xj8q/fyAcn2rPso5fhxPPs1Ezl+UXF4Os8gM0bv+iNyzKIpo6S/kf0uciqG06NzhMUL/MIrXYF+1uVWx/RkIcze+uPWUuK5jcV3lEdvBEJ5YG3T+V5G56AH6V+GHYxjEh6rrWV9MWUAszGVpZLD4NqAl3HOUDU3iNf0XCfbXkr3IP7fNINwbG1SXBcZPM0TvK7MRxGZKVUJl4Q951V8gZD/jFrqEoKSRHL+nKNWA1QE5ZSsU95k/v7ZnXeS7egsoQGraL9oA1imF5LXHtCI6vE7YMbQCSms5feAoejrsNmECCTYkTEtgh2oVKrt1SBGiepyinmROKLviRaBd/AmZ7iIHKbDE2XDQxKyteFIfuTawHshfLhY1/CLFxAALGhpOq5RgpakNHwsoURiwm3bdtlUaoh38Z2NKWnV+k2zwbpok="
+
